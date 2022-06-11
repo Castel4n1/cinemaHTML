@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg bg-light">
     <div class="container-fluid">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="index.php">
             LOGO
         </a>
 
@@ -28,7 +28,7 @@
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="atores.php">Atores</a></li>
                         <li><a class="dropdown-item" href="produtores.php">Produtores</a></li>
-                        <li><a class="dropdown-item" href="produtores.php">Categorias</a></li>        
+                        <li><a class="dropdown-item" href="categorias.php">Categorias</a></li>        
                     </ul>
                 </li>
             </ul>

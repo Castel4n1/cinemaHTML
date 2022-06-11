@@ -37,7 +37,7 @@
             <div class="col-6 col-lg-2 mb-3">
                 <h5>Redes Sociais</h5>
                 <ul class="list-unstyled">
-                    <li class="mb-2"><a href="#">Instagram</a></li>
+                    <li class="mb-2"><a href="https://www.instagram.com/">Instagram</a></li>
                     <li class="mb-2"><a href="#">Facebook</a></li>
                     <li class="mb-2"><a href="#">Twitter</a></li>
                 </ul>

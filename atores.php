@@ -1,44 +1,107 @@
-<nav class="navbar navbar-expand-lg bg-light">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="#">
-            LOGO
-        </a>
+<!DOCTYPE html>
+<html lang="pt-br">
 
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vísio Play</title>
 
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="index.php">
-                        Home
-                    </a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="em-cartaz.php">
-                        Em Cartaz                        
-                    </a>
-                </li>
+    <!-- CSS -->
+    <?php include_once('inc/css.php'); ?>
+    <!-- /CSS -->
+</head>
 
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="filmes.php" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Filmes
-                    </a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="atores.php">Atores</a></li>
-                        <li><a class="dropdown-item" href="produtores.php">Produtores</a></li>
-                        <li><a class="dropdown-item" href="categorias.php">Categorias</a></li>        
-                    </ul>
-                </li>
-            </ul>
-
-            <form class="d-flex" role="search">
-                <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Pesquisar">
-                <button class="btn btn-outline-success" type="submit">
-                    <i class="fa-solid fa-magnifying-glass"></i>
-                </button>
-            </form>
+<body>
+    <!-- CONTAINER -->
+    <div class="container">
+        <!-- CABEÇALHO -->
+        <?php include_once('inc/topo.php'); ?>
+        <!-- /CABEÇALHO -->
+        <!-- CONTEÚDO -->
+        <!-- card inicial -->
+        <div class="card bg-dark text-white">
+            <img src="img/Foto54.jpg" class="card-img" alt="...">
+            <div class="card-img-overlay">
+                <h3 class="card-title">ATORES</h3>
+                <p class="card-text"> <h1>Nessa pagina fica todos os atores que estão inclusos na page WEB</h1></p>
+                <p class="card-text"></p>
+            </div>
         </div>
-    </div>
-</nav>
+        <!-- /card inicial -->
+        <br><br>
+        <!-- CARD ATOR -->
+        <div class="row">
+            <h1>Todos Atores</h1>
+            <div class="row row-cols-1 row-cols-md-3 g-4">
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="img/ator1.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="img/ator2.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">This is a short card.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="img/ator3.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="img/ator4.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="img/ator5.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="img/ator6.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Atores Cards -->
+            <!-- /Atores Cards -->
+            <!-- CONTEÚDO -->
+            <!-- RODAPÉ -->
+            <?php include_once('inc/rodape.php'); ?>
+            <!-- RODAPÉ -->
+        </div>
+        <!-- /CARD ATOR -->
+
+        <!-- /CONTAINER -->
+</body>
+<!-- JS -->
+<?php include_once('inc/js.php'); ?>
+<!-- /JS -->
+
+</html>
