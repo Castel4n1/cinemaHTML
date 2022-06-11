@@ -13,6 +13,9 @@
 </head>
 
 <body>
+    <div class="bg-dark">
+
+   
     <!-- CONTAINER -->
     <div class="container">
         <!-- CABEÇALHO -->
@@ -110,7 +113,9 @@
         <?php include_once('inc/rodape.php'); ?>
         <!-- RODAPÉ -->
     </div>
+    
     <!-- /CONTAINER -->
+    </div>
 </body>
 <!-- JS -->
 <?php include_once('inc/js.php'); ?>

@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg bg-light">
+<nav class="navbar navbar-expand-lg bg-light fixed-top">
     <div class="container-fluid">
         <a class="navbar-brand" href="index.php">
             LOGO
@@ -17,7 +17,7 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="em-cartaz.php">
-                        Em Cartaz                        
+                        Em Cartaz
                     </a>
                 </li>
 
@@ -28,7 +28,7 @@
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="atores.php">Atores</a></li>
                         <li><a class="dropdown-item" href="produtores.php">Produtores</a></li>
-                        <li><a class="dropdown-item" href="categorias.php">Categorias</a></li>        
+                        <li><a class="dropdown-item" href="categorias.php">Categorias</a></li>
                     </ul>
                 </li>
             </ul>
