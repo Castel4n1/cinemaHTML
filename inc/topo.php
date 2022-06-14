@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg text-light bg-black fixed-top">
     <div class="container-fluid">
-        <a class="navbar-brand" href="index.php">
+        <a class="navbar-brand text-white" href="index.php">
             LOGO
         </a>
 
