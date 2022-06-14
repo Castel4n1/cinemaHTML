@@ -13,6 +13,7 @@
 </head>
 
 <body>
+<div class="bg-dark">
     <!-- CONTAINER -->
     <div class="container">
         <!-- CABEÇALHO -->
@@ -68,6 +69,7 @@
         <!-- RODAPÉ -->
     </div>
     <!-- /CONTAINER -->
+</div>    
 </body>
 <!-- JS -->
 <?php include_once('inc/js.php'); ?>

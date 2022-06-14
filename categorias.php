@@ -13,6 +13,7 @@
 </head>
 
 <body>
+<div class="bg-dark">
     <!-- CONTAINER -->
     <div class="container">
         <!-- CABEÇALHO -->
@@ -20,7 +21,7 @@
         <!-- /CABEÇALHO -->
         <!-- CONTEÚDO -->
         <div class="row">
-            <h1>CATEGORIAS</h1>
+            <h1>Nossos Parceiros</h1>
             <div id="carouselBanner" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-indicators">
                     <button type="button" data-bs-target="#carouselBanner" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -31,22 +32,19 @@
                     <div class="carousel-item active" data-bs-interval="2000">
                         <img src="img/banner1.jpg" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-none d-md-block">
-                            <h5>First slide label</h5>
-                            <p>Some representative placeholder content for the first slide.</p>
+                            
                         </div>
                     </div>
                     <div class="carousel-item">
                         <img src="img/banner2.jpg" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-none d-md-block">
-                            <h5>Second slide label</h5>
-                            <p>Some representative placeholder content for the second slide.</p>
+                           
                         </div>
                     </div>
                     <div class="carousel-item">
                         <img src="img/banner3.jpg" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-none d-md-block">
-                            <h5>Third slide label</h5>
-                            <p>Some representative placeholder content for the third slide.</p>
+                           
                         </div>
                     </div>
                 </div>
@@ -65,6 +63,7 @@
             <!-- RODAPÉ -->
         </div>
         <!-- /CONTAINER -->
+</div>
 </body>
 <!-- JS -->
 <?php include_once('inc/js.php'); ?>

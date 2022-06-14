@@ -1,3 +1,12 @@
-#navbarSupportedContent{
-    position: fixed;
-  }
+.nav-link, .nav-item {
+   color: #fcfcfc;
+}
+.nav-link:hover{
+    color: #f00d18;
+}
+h2, h1, li, a {
+    color:white;
+}
+
+
+
