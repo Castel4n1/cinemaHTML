@@ -21,7 +21,6 @@
         <!-- /CABEÇALHO -->
         <!-- CONTEÚDO -->
         <div class="row">
-            <h1>conteudo</h1>
         </div>
         <!-- CONTEÚDO -->
         <!-- RODAPÉ -->

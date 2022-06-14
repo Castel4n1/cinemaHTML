@@ -5,11 +5,8 @@
     color: #f00d18;
 }
 h2, h1, li, a {
-    color:white;
+    color:rgb(255, 255, 255);
+    font-family: serif;
+    font-weight: bold;
 }
-.h5 {
-    color:rgb(0, 0, 0);
-}
-
-
 

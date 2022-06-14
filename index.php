@@ -15,7 +15,6 @@
 <body>
     <div class="bg-dark">
 
-
         <!-- CONTAINER -->
         <div class="container">
             <!-- CABEÇALHO -->
@@ -24,8 +23,8 @@
             <!-- CONTEÚDO -->
             <div class="row">
                 <!-- BANNER -->
+                <h2></h2>
                 <br><br><br>
-                <h2> LANÇAMENTOS </h2>
                 <div id="carouselBanner" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-indicators">
                         <button type="button" data-bs-target="#carouselBanner" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -82,16 +81,6 @@
                     <img src="img/Foto3.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Doutor Estranho</h5>
-
-                    </div>
-                    <div class="card-footer">
-                        <small class="text-muted">Em breve no VísioPlay</small>
-                    </div>
-                </div>
-                <div class="card">
-                    <img src="img/Foto1.jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">Maverick</h5>
 
                     </div>
                     <div class="card-footer">
@@ -175,32 +164,28 @@
             <!-- /PROMOÇÕES -->
             <br>
             <!-- DISPONIVEL PARA COMPRA -->
-            <div class="row">                
+            <div class="row">
                 <br><br><br>
                 <h2> Disponivel para compra </h2>
                 <div id="carouselBanner" class="carousel slide" data-bs-ride="carousel">
-                    <div class="carousel-indicators">
-                        <button type="button" data-bs-target="#carouselBanner" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                        <button type="button" data-bs-target="#carouselBanner" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                        <button type="button" data-bs-target="#carouselBanner" data-bs-slide-to="2" aria-label="Slide 3"></button>
-                    </div>
                     <div class="carousel-inner">
                         <div class="carousel-item active" data-bs-interval="2000">
                             <img src="img/banner-disponivel para compra.jpg" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block">
+                                <h5>O Homem sem Arma</h5>
 
                             </div>
                         </div>
                         <div class="carousel-item">
                             <img src="img/banner-disponivel para compra1.jpg" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block">
-                            
+                                <h5>As figuras do Além</h5>
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img src="img/banner3.jpg" class="d-block w-100" alt="...">
+                            <img src="img/banner-disponivel para compra2.jpg" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block">
-
+                                <h5 class="text right">Ruby antes de Euphoria</h5>
                             </div>
                         </div>
                     </div>
