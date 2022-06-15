@@ -1,7 +1,8 @@
 <nav class="navbar navbar-expand-lg text-light bg-black fixed-top">
-    <div class="container-fluid">
+    <div class="container-fluid  text-right">
         <a class="navbar-brand text-white" href="index.php">
-            LOGO
+            <img src= "img/LogoAtt.PNG">
+            VísioPlay
         </a>
 
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -23,12 +24,11 @@
 
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="filmes.php" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Filmes
+                        Sobre
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="atores.php">Atores</a></li>
                         <li><a class="dropdown-item" href="produtores.php">Produtores</a></li>
-                        <li><a class="dropdown-item" href="categorias.php">Categorias</a></li>
                     </ul>
                 </li>
             </ul>
