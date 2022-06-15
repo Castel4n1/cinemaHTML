@@ -27,8 +27,8 @@
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="atores.php">Atores</a></li>
-                        <li><a class="dropdown-item" href="produtores.php">Produtores</a></li>
-                        <li><a class="dropdown-item" href="produtores.php">Nossos Parceiros</a></li>        
+                        <li><a class="dropdown-item" href="produtores.php">Produtores</a></li>                      
+                        <li><a class="dropdown-item" href="cinemas.php">Cinemas</a></li>     
                     </ul>
                 </li>
             </ul>

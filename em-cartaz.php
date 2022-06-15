@@ -23,7 +23,7 @@
             <!-- CONTEÚDO -->
             <div class="row">
                 <h1 class="text-dark">.</h1>
-                <h2>FILMES EM CARTAZ</h2>
+                <h2>Filmes em Cartaz</h2>
                 <!-- FILMES CARDS-->
                 <div class="row row-cols-1 row-cols-md-3 g-4">
                     <div class="col">
@@ -108,7 +108,7 @@
 
                 </div>
                 <h3 class="text-dark">.</h3>
-                <h1>Nosso Diferencial</h1>
+                <h2>Nosso Diferencial</h2>
                 
                 <!-- Diferenciais -->
                 <div id="carouselBanner1" class="carousel slide" data-bs-ride="carousel">

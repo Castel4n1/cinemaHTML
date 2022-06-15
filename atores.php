@@ -35,7 +35,7 @@
             <br><br>
             <!-- CARD ATOR -->
             <div class="row">
-                <h1>Todos Atores</h1>
+                <h2>Todos Atores</h2>
                 <div class="card mb-6 offset" style="max-width: 540px;">
                     <div class="row g-0">
                         <div class="col-md-4">

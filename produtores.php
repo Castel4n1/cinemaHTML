@@ -25,9 +25,9 @@
             <div class="card bg-dark text-white">
                 <img src="img/Foto54.jpg" class="card-img" alt="...">
                 <div class="card-img-overlay">
-                    <h3 class="card-title">ATORES</h3>
+                    <h2 class="card-title">ATORES</h2>
                     <p class="card-text">
-                    <h1>Nessa pagina fica todos os produtores que estão inclusos na page WEB</h1>
+                    <h2>Nessa pagina fica todos os produtores que estão inclusos na page WEB</h2>
                     </p>
                     <p class="card-text"></p>
                 </div>
@@ -36,7 +36,7 @@
             <br><br>
             <!-- CARD ATOR -->
             <div class="row">
-                <h1>Todos Produtores</h1>
+                <h2>Todos Produtores</h2>
                 <div class="card mb-6 offset" style="max-width: 540px;">
                     <div class="row g-0">
                         <div class="col-md-4">

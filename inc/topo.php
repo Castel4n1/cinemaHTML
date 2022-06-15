@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg text-light bg-black fixed-top">
     <div class="container-fluid  text-right">
         <a class="navbar-brand text-white" href="index.php">
-            <img src= "img/LogoAtt.PNG">
+            <img src= "img/LogoAtt1.PNG">
             VísioPlay
         </a>
 
@@ -29,6 +29,7 @@
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="atores.php">Atores</a></li>
                         <li><a class="dropdown-item" href="produtores.php">Produtores</a></li>
+                        <li><a class="dropdown-item" href="cinemas.php">Cinemas</a></li>
                     </ul>
                 </li>
             </ul>

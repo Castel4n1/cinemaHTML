@@ -38,8 +38,8 @@
                 <h5>Redes Sociais</h5>
                 <ul class="list-unstyled">
                     <li class="mb-2"><a href="https://www.instagram.com/">Instagram</a></li>
-                    <li class="mb-2"><a href="#">Facebook</a></li>
-                    <li class="mb-2"><a href="#">Twitter</a></li>
+                    <li class="mb-2"><a href="https://pt-br.facebook.com/">Facebook</a></li>
+                    <li class="mb-2"><a href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoicHQifQ%3D%3D%22%7D">Twitter</a></li>
                 </ul>
             </div>
             <!-- REDES SOCIAIS -->
